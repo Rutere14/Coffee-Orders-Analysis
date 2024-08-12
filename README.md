@@ -10,15 +10,15 @@ In this project, I conducted a comprehensive analysis of coffee orders using Exc
 
 ## Objectives 
 
-- **Identify Coffee Preferences by Country**: Analyze the dataset to determine the most popular coffee types (Arabica, Excelsa, Liberica, Robusta) in each of the three countries (USA, UK, Ireland).
+- **Identify Coffee Preferences by Country**: Analyze the dataset to determine the most popular coffee types (Arabica, Excelsa, Liberica, Robusta) in the three countries (USA, UK, Ireland).
 
-- **Understand Regional Sales Trends**: Explore and compare coffee sales trends across the USA, UK, and Ireland to identify regional differences in consumer behaviour.
+- **Understand Regional Sales Trends**: Explore and compare coffee sales trends across the USA, UK, and Ireland to identify regional differences in consumer behavior.
 
 - **Inform Marketing Strategies**: Use the insights gained from the analysis to recommend targeted marketing strategies based on the popularity of different coffee types in each country.
 
 - **Optimize Inventory Management**: Provide data-driven recommendations for optimizing inventory management by aligning stock levels with the demand for specific coffee types in each region.
 
-- **Enhance Business Decision-Making**: Equip stakeholders with actionable insights that can drive business decisions related to product offerings, pricing, and market expansion.
+- **Enhance Business Decision-Making**: Equip stakeholders with actionable insights to drive business decisions related to product offerings, pricing, and market expansion.
 
 
 
@@ -46,7 +46,7 @@ This dataset contains the following information:
 | `customer_name` | The name of the customer. |
 | `email_address` | Contact information for customers. |
 | `phone_number`  | Another contact detail for customers. |
-| `and_more`      | Explore a wide range of customer attributes for segmentation and analysis. |
+| `and_more`      | Explore various customer attributes for segmentation and analysis. |
 
 ### Products Worksheet
 
@@ -93,4 +93,4 @@ This dataset contains the following information:
   - `IFS`
   - `INDEX MATCH`
   - `Pivot Tables`
-
+  - `Visualization`
